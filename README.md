@@ -1,24 +1,6 @@
-# README
+<h1>Cafe API creation workshop on Rails</h1>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<img width="902" alt="Screenshot 2024-10-10 at 1 18 22" src="https://github.com/user-attachments/assets/84fc7a41-8fee-449f-a28b-d3cd2bbb5370">
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a Ruby-on-Rails JSON API that combines cafes in Tokyo.
+The API includes name of the cafe, address, picture, criteria, and the hours of operations.
