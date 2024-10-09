@@ -4,3 +4,8 @@
 
 This is a Ruby-on-Rails JSON API that combines cafes in Tokyo.
 The API includes name of the cafe, address, picture, criteria, and the hours of operations.
+
+NEXT STEP FORWARD..
+- We will work on Front-end development
+- Test on rspec
+- other features
